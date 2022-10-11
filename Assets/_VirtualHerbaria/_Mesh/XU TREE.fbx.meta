@@ -6,7 +6,37 @@ ModelImporter:
   - first:
       74: 1827226128182048838
     second: Take 001
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: XU_BRANCH_BASE
+    second: {fileID: 2100000, guid: 7ae8d61d9bc1134408081f51aac6b5bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: XU_GLASS_BASE
+    second: {fileID: 2100000, guid: 15bd03e7bd723a24398926b8c57d8122, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: XU_LEAVES_BASE
+    second: {fileID: 2100000, guid: fb7e7bf4f42810046ba7c2ffb9e97134, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: XU_MAHCINE_BASE
+    second: {fileID: 2100000, guid: b7d391faaf3035e4687fdcd35f482c29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: XU_TRUNK_BASE
+    second: {fileID: 2100000, guid: edc8e08b09467bb4ea0de3093b334a51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 642260329c94be74b8d19663ff751a6e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
